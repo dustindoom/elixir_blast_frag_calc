@@ -9,3 +9,4 @@ Building a blast/frag calc using elixir
     14SEPT2018:
     TODO: https://github.com/jlevy/the-art-of-command-line
       ->master command line.
+    TODO: work on merging...
