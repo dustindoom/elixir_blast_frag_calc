@@ -4,7 +4,6 @@ Building a blast/frag calc using elixir
    Started master and at_work branches.
    Added blast_frag_calc.ex. 
    TODO: https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
-<<<<<<< HEAD
     ->Master basic git commands
 
     14SEPT2018:
